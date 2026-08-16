@@ -9,6 +9,8 @@ by YabataDesign.
 A warm, muted dark theme: orange keywords, yellow functions, green strings,
 blue constants and white type names on a soft `#2e2e2e` background.
 
+![Afterglow Remastered in Zed](preview.jpg)
+
 ## Installation
 
 ### From the extension gallery
